@@ -6,3 +6,4 @@
         python -m venv FlappyBird
 3) Instalar a biblioteca pygame: pip install pygame
 4) Instalar a biblioteca para a IA: pip install neat-python
+5) Baixar a pasta de imgs
